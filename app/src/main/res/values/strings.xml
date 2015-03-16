@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SSLPinnigExample</string>
+    <string name="string_execute">Execute http/https</string>
+    <string name="string_response">Response</string>
+</resources>
